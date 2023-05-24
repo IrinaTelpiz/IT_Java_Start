@@ -2,7 +2,7 @@ package L2;
 
 import java.util.Scanner;
 
-public class IfDemo {
+public class Guess {
     public static void main(String[] args) {
 
         Scanner myFancyScanner = new Scanner(System.in);

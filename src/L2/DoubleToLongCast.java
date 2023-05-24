@@ -1,6 +1,6 @@
 package L2;
 
-public class Main {
+public class DoubleToLongCast {
 
     public static void main(String[] args) {
 

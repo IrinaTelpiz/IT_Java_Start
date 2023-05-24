@@ -13,7 +13,7 @@ public class Sound {
 
         float time = input.nextFloat();
 
-        distance = time * 335;
+        distance = time * 332;
 
         String myString = "Distance to the place of lightning strike is ";
 
