@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class GalToLit {
     public static void main(String[] args) {
 
-        double gallons;
-        double liters;
+        double gallons, liters;
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter gallons");
