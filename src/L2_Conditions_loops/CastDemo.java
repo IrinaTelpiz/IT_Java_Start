@@ -1,4 +1,4 @@
-package L2;
+package L2_Conditions_loops;
 
 public class CastDemo {
     public static void main(String[] args) {

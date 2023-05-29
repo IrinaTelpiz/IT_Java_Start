@@ -1,4 +1,4 @@
-package L2;
+package L2_Conditions_loops;
 
 import java.util.Scanner;
 

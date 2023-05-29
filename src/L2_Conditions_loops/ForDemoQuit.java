@@ -1,6 +1,5 @@
-package L2;
+package L2_Conditions_loops;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class ForDemoQuit {
