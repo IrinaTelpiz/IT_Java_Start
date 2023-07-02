@@ -1,4 +1,4 @@
-package HW3_Java_Control_Statements_Telpiz_Irina;
+package Homeworks.L3HW_Java_Control_Statements_Telpiz_Irina;
 
 import java.util.Scanner;
 

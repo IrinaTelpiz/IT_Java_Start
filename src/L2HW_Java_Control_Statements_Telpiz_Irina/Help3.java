@@ -1,4 +1,4 @@
-package HW3_Java_Control_Statements_Telpiz_Irina;
+package L2HW_Java_Control_Statements_Telpiz_Irina;
 
 import java.io.IOException;
 
