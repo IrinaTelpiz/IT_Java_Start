@@ -15,7 +15,6 @@ public class SpaceCount {
             if (ch == ' '){
                 countSpaces++;
             }
-
         }
         while (ch != '.');
 

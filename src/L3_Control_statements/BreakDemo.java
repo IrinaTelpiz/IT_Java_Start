@@ -1,4 +1,4 @@
-package L3;
+package L3_Control_statements;
 
 import java.util.Scanner;
 
@@ -20,6 +20,6 @@ public class BreakDemo {
             ch = in.nextLine().charAt(0);
             if (ch == 'q') break;
         }
-        System.out.println("you have entered");
+        System.out.println("you have entered 'q' !");
     }
 }

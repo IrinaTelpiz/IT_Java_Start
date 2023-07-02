@@ -1,4 +1,4 @@
-package L5_Classes;
+package L5_Classes_Arrays;
 
 public class ArrayDemo {
     public static void main(String[] args) {

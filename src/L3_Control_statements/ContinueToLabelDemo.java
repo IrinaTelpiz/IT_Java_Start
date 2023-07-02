@@ -1,6 +1,6 @@
 package L3_Control_statements;
 
-public class ContinueToLableDemo {
+public class ContinueToLabelDemo {
     public static void main(String[] args) {
 
         outerloop:

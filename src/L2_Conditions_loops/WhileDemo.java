@@ -27,7 +27,7 @@ public class WhileDemo {
 //
 //        System.out.println();
 //
-        Scanner in = new Scanner(System.in);
+//        Scanner in = new Scanner(System.in);
 //        System.out.println("Enter condition: ");
 //        boolean condition = in.nextBoolean();
 //
@@ -44,6 +44,8 @@ public class WhileDemo {
 //            System.out.println("Print it with do while");
 //            n -= 1;
 //        } while (n > 0);
+
+        Scanner in = new Scanner(System.in);
 
         char ch;
 
