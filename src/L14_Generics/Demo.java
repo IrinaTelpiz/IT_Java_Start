@@ -1,23 +1,22 @@
-package L_14_Generics;
+package L14_Generics;
 
 import L11_Collections.Book;
-
-import java.util.ArrayList;
+import L8_Inheritance.Triangle;
 
 public class Demo {
     public static void main(String[] args) {
 
-        Gen<Book> iOb;
+        Gen<Triangle> iOb;
+
+
 
         Book myBook = new Book("Author", "MyBook");
 
-        iOb = new Gen<>(myBook);
+        Triangle myTriangle = new Triangle();
+
+        iOb = new Gen<>(myTriangle);
 
         iOb.showType();
 
-        ArrayList<Integer> myColl;
-
-        TwoGen<String, Book> myTwoGen = new TwoGen<>("myBook",myBook);
-        myTwoGen.showType();
     }
 }

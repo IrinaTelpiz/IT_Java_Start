@@ -8,9 +8,9 @@ public class Triangle extends TwoDShape {
 //        style = "none";
 //    }
 
-    Triangle(String style, double width, double height){
-        super(width, height);
-        this.style = style;
-    }
+//    public Triangle(){
+//        super(width, height);
+//        this.style = style;
+//    }
 
 }

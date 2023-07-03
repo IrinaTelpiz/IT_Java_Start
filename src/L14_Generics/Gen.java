@@ -1,6 +1,8 @@
-package L_14_Generics;
+package L14_Generics;
 
-public class Gen<T>{
+import L8_Inheritance.TwoDShape;
+
+public class Gen<T extends TwoDShape>{
 
     T ob;
 
@@ -14,5 +16,9 @@ public class Gen<T>{
 
     void showType(){
         System.out.println("Type T - is " + ob.getClass().getName());
+    }
+
+    void perimeterCalc(){
+        System.out.println((ob));
     }
 }
