@@ -31,7 +31,7 @@ public class Dog {
         this(age, breed , name, sex);
         this.isHealthy = isHealthy;
     }
-    Dog(){
+    public Dog(){
         age = 1;
         name = "unknown";
         sex = '?';
