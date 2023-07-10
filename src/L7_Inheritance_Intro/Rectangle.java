@@ -1,7 +1,9 @@
 package L7_Inheritance_Intro;
 
 public class Rectangle extends TwoDimensionShape{
+
     Rectangle(double width, double height) {
+
         super(width, height);
     }
 

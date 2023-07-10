@@ -16,7 +16,7 @@ class Player {
         int row;
         int col;
         do {
-            System.out.println("Enter the row and column");
+            System.out.println("Enter the row and the column please.");
             row = input.nextInt();
             col = input.nextInt();
 

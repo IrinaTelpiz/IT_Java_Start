@@ -5,7 +5,7 @@ public class TicTacToeGame {
     public static void main(String[] args) {
 
         System.out.println("Start the game!\n" +
-                "Enter number of row and colum (from 0 to 2)separated by space! (Example: 1 0)");
+                "Enter number of the row and the colum (from 0 to 2)\nseparated by space! (Example: 1 0)");
         TicTacToe t = new TicTacToe();
 
         Player p1 = new Player("Player 1", 'X');
@@ -29,10 +29,6 @@ public class TicTacToeGame {
                     current = p1;
                 }
             }
-
         }
-
-
-
     }
 }

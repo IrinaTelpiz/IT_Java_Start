@@ -1,5 +1,7 @@
 package L5_Classes_Arrays;
 
+import L6_Access_Modifiers.MyClass;
+
 public class VetClinic {
     public static void main(String[] args) {
 
@@ -10,5 +12,8 @@ public class VetClinic {
         Dog dog2 = new Dog();
 
         System.out.println(dog2.name);
+
+        L6_Access_Modifiers.MyClass obj = new MyClass();
+
     }
 }

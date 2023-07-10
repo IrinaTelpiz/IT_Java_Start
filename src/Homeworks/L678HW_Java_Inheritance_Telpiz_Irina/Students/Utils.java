@@ -1,10 +1,9 @@
-package L5_Classes_Arrays;
+package Homeworks.L678HW_Java_Inheritance_Telpiz_Irina.Students;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class ArrayClass {
-
+public class Utils {
     public static void main(String[] args) {
 
         int[] intArray;
@@ -25,15 +24,7 @@ public class ArrayClass {
         for (int arrayElement: intArray2){
             System.out.print(arrayElement);
         }
-
-
-
-
-
     }
-
-
-
     static void showArray(int[] arr){
         for (int i = 0; i < arr.length; i++){
             System.out.print(arr[i] + " ");
@@ -77,5 +68,4 @@ public class ArrayClass {
 //        populateArrayRandomly(values, min, max);
 //        return values;
 //    }
-
 }
