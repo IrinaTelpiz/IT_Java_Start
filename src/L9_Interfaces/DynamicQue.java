@@ -1,6 +1,6 @@
 package L9_Interfaces;
 
-public class DynamicQue implements ICharQ {
+public class DynamicQue implements ICharQ_On_Lesson {
 
     private char[] q;
     private int putLoc,getLoc;

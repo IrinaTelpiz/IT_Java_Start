@@ -7,6 +7,7 @@ public class ByTwos implements Series{
     ByTwos(){
         start = val = 0;
     }
+
     @Override
     public int getNext() {
         val +=2;

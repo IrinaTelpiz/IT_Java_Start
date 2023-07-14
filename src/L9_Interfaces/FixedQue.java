@@ -1,6 +1,6 @@
 package L9_Interfaces;
 
-public class FixedQue implements ICharQ {
+public class FixedQue implements ICharQ_On_Lesson {
 
     private char[] q;
     private int putLoc,getLoc;
